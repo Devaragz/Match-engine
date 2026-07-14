@@ -1,0 +1,5 @@
+engine.exe
+*.o
+obj/
+trades.txt
+__pycache__/
